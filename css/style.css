@@ -1,0 +1,37 @@
+body{
+	background-image: url(image1.jpg);
+	font-family: Courier New;
+}
+.h1{
+	color: #7545ed;
+	    text-shadow: black 0 0 3px;
+	    font-family: sans-serif;
+}
+.sh{
+	color: #45d4ed; 
+    text-shadow: black 0 0 1px;
+    transition: 0.5s;
+    border: 2px solid purple;
+    border-radius: 10px 10px 10px 10px;
+}
+a{
+	color: #007fe0;
+		text-decoration: none;
+		transition: 0.5s;
+}
+a:hover{
+	font-size: 40px;
+	color: #000;
+}
+.tp{
+	color: #FFF;
+	transition: 0.3s;
+	cursor: pointer;
+}
+.tp:hover{
+	color:#7545ed;
+}
+.spisok{
+	    border: 2px solid purple;
+    border-radius: 10px 10px 10px 10px;
+}
